@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.cleanslop/cleanslop",
+  "title": "CleanSlop",
+  "description": "Your coding agent scans your pushed code, reads what's worth fixing, fixes it, and rescans.",
+  "version": "2026.10.24",
+  "websiteUrl": "https://cleanslop.com",
+  "repository": {
+    "url": "https://github.com/cleanslop/skills",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://cleanslop.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cleanslop.com/mcp"
+    }
+  ]
+}
