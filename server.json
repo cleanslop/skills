@@ -3,7 +3,7 @@
   "name": "com.cleanslop/cleanslop",
   "title": "CleanSlop",
   "description": "Your coding agent scans your pushed code, reads what's worth fixing, fixes it, and rescans.",
-  "version": "2026.10.24",
+  "version": "2026.11.10",
   "websiteUrl": "https://cleanslop.com",
   "repository": {
     "url": "https://github.com/cleanslop/skills",
